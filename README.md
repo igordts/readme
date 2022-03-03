@@ -74,7 +74,7 @@
   
 <div>  
   <h4 align="right"> Visitantes </h4>
-  <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
+  <img align="right" src="https://profile-counter.glitch.me/igordts/count.svg">
    </div> 
     
   ![Snake animation](https://github.com/TomasAlric/TomasAlric/blob/output/github-contribution-grid-snake.svg) 
